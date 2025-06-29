@@ -8,7 +8,7 @@ Welcome, Argmax students! This repository contains all official code examples, d
 **How to use this repository:**
 1. **Clone this repository** to your local machine at the start of the bootcamp:
    ```bash
-   git clone [https://github.com/Argmax-Agra/daily-code.git](https://github.com/Argmax-Agra/daily-code.git)
+   git clone [https://github.com/Argmax-Agra/daily-code.git](https://github.com/Argmax/daily-code.git)
    ```
 2. **Pull daily updates:** Before each class or daily exercise, navigate into your local `daily-code` folder and run:
    ```bash
